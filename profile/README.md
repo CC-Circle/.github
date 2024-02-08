@@ -1,0 +1,8 @@
+## CC-Circle
+
+# 2024年新入生歓迎会用Unityゲーム「ジャナイホウ」
+
+Unityで作ったゲーム
+
+https://github.com/CC-Circle/Janaihou
+

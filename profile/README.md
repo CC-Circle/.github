@@ -6,3 +6,7 @@ Unityで作ったゲーム
 
 https://github.com/CC-Circle/Janaihou
 
+# github練習用リポジトリ
+
+https://github.com/CC-Circle/github-practice
+

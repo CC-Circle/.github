@@ -12,5 +12,6 @@ https://github.com/CC-Circle/github-practice
 
 # CC-Circle ホームページ
 
-WebページURL: /n
+WebページURL:
+
 リポジトリ: https://github.com/CC-Circle/ccc-web

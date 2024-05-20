@@ -6,6 +6,10 @@ Unityで作ったゲーム
 
 https://github.com/CC-Circle/Janaihou
 
+# 2024年 TGS マネキンチーム
+
+https://github.com/CC-Circle/gkn_TGS2024
+
 # github練習用リポジトリ
 
 https://github.com/CC-Circle/github-practice

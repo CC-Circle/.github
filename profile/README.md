@@ -6,6 +6,11 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CC-Circle&repo=Yoga_Earth&theme=buefy" />
 </a>
 
+## Image processing system to detect yoga pose “Tree Pose
+<a href="https://github.com/CC-Circle/Yoga-Fighter">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CC-Circle&repo=Yoga-Fighter&theme=buefy" />
+</a>
+
 # 2024年新入生歓迎会用Unityゲーム「逆行タイムス」
 <img align="center" src="https://github.com/user-attachments/assets/19000bad-17e6-4d4c-858d-b8c3d2e7653d" style="height: 150px; width: auto;" />
 <a href="https://github.com/CC-Circle/Janaihou">

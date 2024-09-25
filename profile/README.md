@@ -11,15 +11,11 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CC-Circle&repo=Yoga-Fighter&theme=buefy" />
 </a>
 
-<img align="center" src="https://github.com/user-attachments/assets/18d931f9-04ee-4a52-b652-2b5d092ee22d" style="height: 150px; width: auto;" />
-
-<a href="https://github.com/CC-Circle/WWW">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CC-Circle&repo=WWW&theme=buefy" />
-</a>
-
 ## リーフカッター
 
 ### 愛知工業大学、豊田市、しきしまの家 　共同研究成果
+
+<img align="center" src="https://github.com/user-attachments/assets/18d931f9-04ee-4a52-b652-2b5d092ee22d" style="height: 150px; width: auto;" />
 
 <a href="https://github.com/CC-Circle/WWW">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CC-Circle&repo=WWW&theme=buefy" />

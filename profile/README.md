@@ -1,12 +1,13 @@
 ## CC-Circle
 
 # 東京ゲームショウ2024出展ゲーム
+## Yoga Earth
 <img align="center" src="https://github.com/user-attachments/assets/5b86a656-8141-42af-9524-11b9acb8e710" style="height: 150px; width: auto;" />
 <a href="https://github.com/CC-Circle/Yoga_Earth">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CC-Circle&repo=Yoga_Earth&theme=buefy" />
 </a>
 
-## Image processing system to detect yoga pose “Tree Pose
+### Image processing system to detect yoga pose “Tree Pose
 <a href="https://github.com/CC-Circle/Yoga-Fighter">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CC-Circle&repo=Yoga-Fighter&theme=buefy" />
 </a>

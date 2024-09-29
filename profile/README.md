@@ -20,19 +20,18 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CC-Circle&repo=WWW&theme=buefy" />
 </a>
 
+## マネキンチーム
+<img align="center" src="https://github.com/user-attachments/assets/1e710dc4-acbe-4502-a6f4-6892edb565bc" style="height: 150px; width: auto;" />
+
+<a href="https://github.com/CC-Circle/https://github.com/CC-Circle/gkn">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CC-Circle&repo=gkn&theme=buefy" />
+</a>
+
 # 2024年新入生歓迎会用Unityゲーム「逆行タイムス」
 <img align="center" src="https://github.com/user-attachments/assets/19000bad-17e6-4d4c-858d-b8c3d2e7653d" style="height: 150px; width: auto;" />
 <a href="https://github.com/CC-Circle/Janaihou">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CC-Circle&repo=Janaihou&theme=buefy" />
 </a>
-
-# 2024年 TGS マネキンチーム
-
-https://github.com/CC-Circle/gkn_TGS2024
-
-# github練習用リポジトリ
-
-https://github.com/CC-Circle/github-practice
 
 # CC-Circle ホームページ
 <img align="center" src="https://github.com/user-attachments/assets/bdb9d384-97ee-41f4-b1fd-65d0bac27dc2" style="height: 150px; width: auto;" />
@@ -42,3 +41,7 @@ WebページURL: https://cc-circle-site.vercel.app/
 <a href="https://github.com/CC-Circle/CC-Circle-site">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CC-Circle&repo=CC-Circle-site&theme=buefy" />
 </a>
+
+# github練習用リポジトリ
+
+https://github.com/CC-Circle/github-practice

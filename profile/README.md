@@ -39,4 +39,6 @@ https://github.com/CC-Circle/github-practice
 
 WebページURL: https://cc-circle-site.vercel.app/
 
-リポジトリ: https://github.com/CC-Circle/CC-Circle-site
+<a href="https://github.com/CC-Circle/CC-Circle-site">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CC-Circle&repo=CC-Circle-site&theme=buefy" />
+</a>

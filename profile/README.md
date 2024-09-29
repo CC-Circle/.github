@@ -35,7 +35,8 @@ https://github.com/CC-Circle/gkn_TGS2024
 https://github.com/CC-Circle/github-practice
 
 # CC-Circle ホームページ
+<img align="center" src="https://github.com/user-attachments/assets/bdb9d384-97ee-41f4-b1fd-65d0bac27dc2" style="height: 150px; width: auto;" />
 
-WebページURL: https://ait-ccc.netlify.app
+WebページURL: cc-circle-site.vercel.app
 
-リポジトリ: https://github.com/CC-Circle/ccc-web
+リポジトリ: https://github.com/CC-Circle/CC-Circle-site

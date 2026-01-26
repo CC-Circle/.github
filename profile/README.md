@@ -33,15 +33,6 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CC-Circle&repo=Janaihou&theme=buefy" />
 </a>
 
-# CC-Circle ホームページ
-<img align="center" src="https://github.com/user-attachments/assets/bdb9d384-97ee-41f4-b1fd-65d0bac27dc2" style="height: 150px; width: auto;" />
-
-WebページURL: https://cc-circle-site.vercel.app/
-
-<a href="https://github.com/CC-Circle/CC-Circle-site">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CC-Circle&repo=CC-Circle-site&theme=buefy" />
-</a>
-
 # github練習用リポジトリ
 
 https://github.com/CC-Circle/github-practice
